@@ -30,6 +30,11 @@ github.com/golang/protobuf/ptypes/duration
 github.com/golang/protobuf/ptypes/timestamp
 # github.com/golang/snappy v0.0.1
 github.com/golang/snappy
+# github.com/hashicorp/golang-lru v0.5.1
+github.com/hashicorp/golang-lru
+github.com/hashicorp/golang-lru/simplelru
+# github.com/jmcvetta/randutil v0.0.0-20150817122601-2bb1b664bcff
+github.com/jmcvetta/randutil
 # github.com/julienschmidt/httprouter v1.3.0
 github.com/julienschmidt/httprouter
 # github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
@@ -105,7 +110,7 @@ golang.org/x/crypto/rand
 golang.org/x/crypto/rsa
 # golang.org/x/net v0.0.0-20200813134508-3edf25e44fcc
 golang.org/x/net/context
-# golang.org/x/sys v0.0.0-20200821140526-fda516888d29
+# golang.org/x/sys v0.1.0
 golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
